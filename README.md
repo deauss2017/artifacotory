@@ -1,1 +1,1 @@
-# artifacotory
+这个是一个pipeline脚本实践
